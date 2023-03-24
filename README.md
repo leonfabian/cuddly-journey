@@ -10,3 +10,13 @@ a
 sd
 as
 d
+
+# Nota 
+
+Primera modi
+
+# Nota 2
+practice
+
+# Nota 3
+Continuando...
